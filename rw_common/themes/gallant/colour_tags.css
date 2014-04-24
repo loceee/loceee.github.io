@@ -1,0 +1,112 @@
+/* TEXT COLORS */
+
+header {
+	background-color: #999999;
+}
+
+#banner {
+	background-color: #CCCCCC;
+}
+
+section {
+	background-color: #FFFFFF;
+	color: #383838;
+}
+
+a{
+	color: %colour_link%;
+}
+
+.subnavcontainer a, nav li a {
+	color: #151515
+}
+
+nav a.current, .subnavcontainer a.current {
+	color: #FFFFFF;
+}
+
+nav li a:hover, .subnavcontainer li a:hover {
+	color: #FFFFFF;
+}
+
+nav li ul li a, .subnavcontainer li ul li a {
+    color: #333333;
+}
+
+nav li ul li a:hover, .subnavcontainer li ul li a:hover {
+    color: #F1F1C5;
+}
+
+.subnavcontainerDrop {	
+	background-color: #494949;
+}
+
+.subnavcontainerDrop a, .subnavcontainerDrop a:visited {
+	color: #F1F1EE;
+}
+
+header span.social a {
+	color:#666666;
+}
+
+header span.social a:hover {
+	color:#E6E6E6;
+}
+
+header h1#title  {
+	color: #F1F1C5;
+}
+
+header h2#slogan  {
+	color: #DCB832;
+}
+
+ul#breadcrumb {
+    background-color: %colour_breadcrumb_background%;
+}
+
+
+#breadcrumb ul, #breadcrumb li, #breadcrumb a {
+	color: #FFFFFF;
+}
+
+#breadcrumb a:hover {
+	color: #F3F3F3
+}
+
+section a:hover,
+aside a:hover{
+	color: %colour_link_hover%;
+}
+
+h1, h2, h3, h4, h5, h6,
+span#asideTitle,
+.album-title, .movie-page-title,
+h1.blog-entry-title, 
+h1.blog-entry-title a,
+#blog-categories:before,
+#blog-archives:before,
+ul.blog-tag-cloud:before,
+#blog-rss-feeds:before {
+	color: #503030;
+}
+
+footer {
+	background-color: #1B1B1B;
+}
+
+#footerText {
+	color: #FFFFFF;
+}
+
+footer a {
+	color: #FFFFFF;
+}
+
+#content a, aside a, section a {
+	color: #999999;
+}
+
+.blog-entry-date, .blog-entry-tags{
+
+}

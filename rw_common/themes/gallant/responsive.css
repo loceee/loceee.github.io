@@ -1,0 +1,296 @@
+/* @Media Queries */
+
+@media only screen and (min-width: 960px) {
+	.subnavcontainer, .subnavcontainerDrop {
+		display: none;
+	}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+	a#logo {
+	margin: 30px 0 0 0;
+	}
+	
+	a#logo img {
+	margin: 0;
+	max-width: 90%;
+	height: auto;
+	}
+	  
+	header h1#title {
+		margin-left: 4.6296296293%;
+	}
+	    
+	 header h2#slogan {
+	 	margin-left: 4.6296296293%;
+	 }
+	  
+		/* Toolbar Styles */
+	
+	nav, .subnavcontainerDrop {
+		display: none;
+	}
+
+	/* Child - Level 1 */
+
+	.subnavcontainer {
+		float: left;
+		clear: both;
+		width: 100%;
+	}
+	
+	.subnavcontainer ul ul { 
+		width: 600px; 
+		position: absolute;
+	}
+	
+	.subnavcontainer li ul {
+		padding-top: 7px;
+		position: absolute;	
+	}
+	
+	.subnavcontainer ul ul li { 
+		display: inline; 
+	}
+	
+	.subnavcontainer ul ul li a { 
+		display: inline-block; 
+	}   
+	
+	/* Child - Level 2 */
+	
+	.subnavcontainer ul ul ul {
+		display: none;
+	}
+	
+	.subnavcontainer ul ul ul ul {
+		display: none;
+	}
+	
+	/* @end */
+		  
+}
+
+/* @end */
+  
+  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+  @media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	a#logo {
+	margin: 25px 0 0 0;
+	clear: both;
+	float: left;
+	}
+	
+	a#logo img {
+	margin: 0;
+	max-width: 100%;
+	height: auto;
+	}
+	
+	/* Toolbar Styles */
+	
+	nav, .subnavcontainer {
+		display: none;
+	}
+	
+	/* @group Vertical Sub-Menu */
+	
+	/* Parent - Level 0 */
+	
+	.subnavcontainerDrop {
+	display: block;
+	padding: 0;
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	}
+	
+	.subnavcontainerDrop ul {
+	margin: 0;
+	list-style: none;
+	line-height: 45px;
+	position: relative;
+	font-size: .875em;
+	list-style-type:none
+	}
+	
+	.subnavcontainerDrop ul li li {
+	padding: 3px 0;
+	list-style-type: none;
+	}
+	
+	.subnavcontainerDrop ul ul ul { padding: 0 0 10px 15px; }
+	
+	.subnavcontainerDrop>ul>li a {
+	display: inline-block;
+	background-repeat: no-repeat;
+	padding: 11px 0;
+	
+	}
+	
+	.subnavcontainerDrop>ul>li>a:hover,
+	.subnavcontainerDrop>ul>li>a.current,
+	.subnavcontainerDrop>ul>li>a.currentAncestor{
+	background-repeat: no-repeat;
+	}
+	
+	.subnavcontainerDrop>ul>li>a.current:hover{
+	background-image: none;
+	text-shadow: none;
+	}
+	
+	.subnavcontainerDrop ul ul { 
+	line-height: 14px;
+	letter-spacing: 0;
+	padding: 0 0 0 0;
+	margin: 0 0 10px 16px;
+	}
+	
+	.subnavcontainerDrop ul ul>li{
+	margin: 0;
+	padding: 6px 0;
+	}
+	
+	.subnavcontainerDrop ul ul>li>a{
+	padding: 3px 6px 5px;
+	}
+	
+	.subnavcontainerDrop ul li {
+	    padding: 0 0 0 21px;
+	}
+	
+	.subnavcontainerDrop ul li ul li {
+		border: none;
+	}
+
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+
+@media (max-width: 479px) {
+
+	header {
+	height: 160px;
+	}
+	
+	a#logo {
+		margin: 25px 0 0 0;
+	}
+	
+	a#logo img {
+	margin: 0;
+	max-width: 80%;
+	height: auto;
+	}
+	
+	#socialIcons {
+		float: none;
+		text-align: center;
+		height: 21px;
+		margin: 0;
+	}
+	
+	header h1#title {
+		clear: both;
+	    font-size: 4em;
+	    text-align: center;
+	    margin: 0;
+	    position: relative;
+	    padding: 30px 0 0 0;
+	}
+	
+	header h2#slogan {
+		clear: both;
+	    font-size: 1em;
+	    text-align: center;
+	    position: relative;
+	    margin: 0;
+	}
+	  	  
+	  section {
+	  	padding-top: 16px;
+	  }  
+
+	/* Toolbar Styles */
+	
+	/* @end */
+	
+	nav, .subnavcontainer {
+		display: none;
+	}
+	
+	/* @group Vertical Sub-Menu */
+	
+	/* Parent - Level 0 */
+	
+	.subnavcontainerDrop {
+	display: block;
+	padding: 0;
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	}
+	
+	.subnavcontainerDrop ul {
+	margin: 0;
+	list-style: none;
+	line-height: 45px;
+	position: relative;
+	font-size: .875em;
+	list-style-type:none
+	}
+	
+	.subnavcontainerDrop ul li li {
+	padding: 3px 0;
+	list-style-type: none;
+	}
+	
+	.subnavcontainerDrop ul ul ul { padding: 0 0 10px 15px; }
+	
+	.subnavcontainerDrop>ul>li a {
+	display: inline-block;
+	background-repeat: no-repeat;
+	padding: 11px 0;
+	
+	}
+	
+	.subnavcontainerDrop>ul>li>a:hover,
+	.subnavcontainerDrop>ul>li>a.current,
+	.subnavcontainerDrop>ul>li>a.currentAncestor{
+	background-repeat: no-repeat;
+	}
+	
+	.subnavcontainerDrop>ul>li>a.current:hover{
+	background-image: none;
+	text-shadow: none;
+	}
+	
+	.subnavcontainerDrop ul ul { 
+	line-height: 14px;
+	letter-spacing: 0;
+	padding: 0 0 0 0;
+	margin: 0 0 10px 16px;
+	}
+	
+	.subnavcontainerDrop ul ul>li{
+	margin: 0;
+	padding: 6px 0;
+	}
+	
+	.subnavcontainerDrop ul ul>li>a{
+	padding: 3px 6px 5px;
+	}
+	
+	.subnavcontainerDrop ul li {
+	    padding: 0 0 0 21px;
+	}
+	
+	.subnavcontainerDrop ul li ul li {
+		border: none;
+	}
+
+}
+

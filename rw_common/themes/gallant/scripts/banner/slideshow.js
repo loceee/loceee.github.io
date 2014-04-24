@@ -1,0 +1,10 @@
+jQuery(document).ready(function($){
+$(".header2").remove();
+$(".header3").remove();
+$(".header4").remove();
+$(".header5").remove();
+$(".header6").remove();
+$(".header7").remove();
+$(".header8").remove();
+$('#extraContainer1').css("display","block");
+});
