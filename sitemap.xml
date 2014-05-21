@@ -2,11 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.rehrehreh.com/index.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/junki-is-now-patchoo.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/hello-junki.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-may-2014.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag--casper.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-apple.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-junki.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-munki.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-patching.html</loc>
+		<lastmod>2014-05-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-patchoo.html</loc>
+		<lastmod>2014-05-21</lastmod>
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/about/index.html</loc>
-	</url>
-	<url>
-		<loc>http://www.rehrehreh.com/contact/index.php</loc>
+		<lastmod>2014-05-21</lastmod>
 	</url>
 </urlset>
