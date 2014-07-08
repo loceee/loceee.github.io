@@ -4,6 +4,9 @@
 		<loc>http://www.rehrehreh.com/index.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/patchoo-v994.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/patchoo-v9931.html</loc>
 	</url>
 	<url>
@@ -19,6 +22,15 @@
 		<loc>http://www.rehrehreh.com/files/hello-junki.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/archive-may-2014.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-jun-2014.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-jul-2014.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/tag--casper.html</loc>
 	</url>
 	<url>
@@ -29,6 +41,9 @@
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-enchancements.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-fixes.html</loc>
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-github.html</loc>
