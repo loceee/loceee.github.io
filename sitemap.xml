@@ -4,6 +4,9 @@
 		<loc>http://www.rehrehreh.com/index.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/patchoo-v9941.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/patchoo-v994.html</loc>
 	</url>
 	<url>
@@ -37,6 +40,9 @@
 		<loc>http://www.rehrehreh.com/files/tag-apple.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/tag-autopkg.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/tag-casper.html</loc>
 	</url>
 	<url>
@@ -50,6 +56,12 @@
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-issues.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-jamfnation.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-jssautopkgaddon.html</loc>
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-junki.html</loc>
