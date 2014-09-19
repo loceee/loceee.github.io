@@ -4,6 +4,9 @@
 		<loc>http://www.rehrehreh.com/index.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/hi-patchoo-deploy.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/patchoo-v9941.html</loc>
 	</url>
 	<url>
@@ -25,6 +28,18 @@
 		<loc>http://www.rehrehreh.com/files/hello-junki.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/archive-jul-2014.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-sep-2014.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-jun-2014.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/archive-may-2014.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/tag--casper.html</loc>
 	</url>
 	<url>
@@ -34,7 +49,13 @@
 		<loc>http://www.rehrehreh.com/files/tag-autopkg.html</loc>
 	</url>
 	<url>
+		<loc>http://www.rehrehreh.com/files/tag-beta.html</loc>
+	</url>
+	<url>
 		<loc>http://www.rehrehreh.com/files/tag-casper.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-deployment.html</loc>
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-enchancements.html</loc>
@@ -71,6 +92,9 @@
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-patchoo.html</loc>
+	</url>
+	<url>
+		<loc>http://www.rehrehreh.com/files/tag-provisioning.html</loc>
 	</url>
 	<url>
 		<loc>http://www.rehrehreh.com/files/tag-yosemite.html</loc>
